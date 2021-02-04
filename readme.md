@@ -6,4 +6,4 @@ If you want to try deploying this project to your Netlify Account, you can! Just
 
 > Note: Netlify will ask you 2 questions regarding `BASE_URL_STAGING` and `BASE_URL_PRODUCTION`. This is necessary so your deployment contains valid links and you can navigate properly
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/erickpatrick/jigsaw-blog-netlify-netlifycms-template)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sandy-wood/jigsaw-blog-netlify-netlifycms-template)
