@@ -57,7 +57,7 @@
         <footer class="bg-white text-center text-sm mt-12 py-4" role="contentinfo">
             <ul class="flex flex-col md:flex-row justify-center list-none">
                 <li class="md:mr-2">
-                    &copy; <a href="https://sandywood.net" title="Sandy Wood">Sandy Wood</a> {{ date('Y') }}.
+                    <a href="https://sandywood.net" title="Sandy Wood">Sandy Wood</a> {{ date('Y') }}.
                 </li>
             </ul>
         </footer>
