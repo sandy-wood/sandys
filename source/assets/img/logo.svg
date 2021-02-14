@@ -1,12 +1,16 @@
-<svg width="40px" height="45px" viewBox="0 0 40 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="04-docs-start" transform="translate(-170.000000, -28.000000)">
-            <g id="Group" transform="translate(170.000000, 28.000000)">
-                <polygon id="Rectangle-3-Copy" fill="#338CD6" points="20 0 40 10 40 35 20 45 0 35 0 10"></polygon>
-                <polygon id="Rectangle-3-Copy-2" fill="#1C3E5A" points="20 20 20 45 0 35 0 10"></polygon>
-                <polygon id="Rectangle-3" fill="#B9DAF5" points="20 0 40 10 20 20 0 10"></polygon>
-            </g>
-        </g>
-    </g>
+<svg width="600" height="600" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#4281bf" id="canvas_background" height="602" width="602" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="259" rx="259" id="svg_7" cy="300.71875" cx="299.5" fill-opacity="null" stroke-width="1.5" fill="#fff"/>
+  <path stroke="null" id="svg_9" d="m100.55248,364.14204l0,0c0,-108.12371 88.88932,-195.77532 198.53982,-195.77532l0,0c52.65601,0 103.15541,20.62626 140.38883,57.34125c37.23345,36.71501 58.15099,86.51121 58.15099,138.43407l0,0c0,108.1237 -88.88932,195.77532 -198.53982,195.77532l0,0c-109.65049,0 -198.53982,-87.65162 -198.53982,-195.77532zm99.26991,0l0,0c0,54.06184 44.44468,97.88766 99.26991,97.88766c54.82527,0 99.26991,-43.82582 99.26991,-97.88766c0,-54.06184 -44.44467,-97.88766 -99.26991,-97.88766l0,0c-54.82523,0 -99.26991,43.82583 -99.26991,97.88766z" stroke-opacity="null" stroke-width="1.5" fill="#1a8484"/>
+ </g>
 </svg>
