@@ -7,8 +7,10 @@ module.exports = {
           'Nunito Sans'
         ],
         mono: [
-          'monospace',
+          'monospace'
         ],
+        logotype: [
+          'LongCang-Regular'],
       },
       lineHeight: {
         normal: '1.6',
