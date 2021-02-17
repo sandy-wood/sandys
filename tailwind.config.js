@@ -10,7 +10,7 @@ module.exports = {
           'monospace'
         ],
         logotype: [
-          'LongCang-Regular'],
+          'Long+Cang'],
       },
       lineHeight: {
         normal: '1.6',
