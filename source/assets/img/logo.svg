@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Desktop</title>
-    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M330.308668,20 C330.308668,20 414.603419,212.581774 456.501982,232.733632 C498.400545,252.88549 498.400545,265.230407 556.574442,128.826544 C595.35704,37.8906346 658.181415,1.61512013 745.047569,20 C743.470594,182.876017 761.020638,289.791894 797.697699,340.74763 C834.374761,391.703366 905.808861,408.413875 1012,390.879158 L916.425967,862.51124 C800.240347,590.478063 726.166215,456.285729 694.203571,459.934238 C662.240927,463.582746 669.539579,605.397445 716.099527,885.378332 C742.613531,963.336875 691.640724,1004.40476 563.181104,1008.58199 C434.721484,1012.75922 297.853462,977.799511 152.577039,903.702865 C269.274866,735.215826 332.902472,627.896145 343.459856,581.743823 C359.295931,512.515339 322.899236,408.802208 257.536948,444.863467 C213.96209,468.904307 173.658404,552.568792 136.625892,695.856922 L26.0524495,493.297775 C131.256669,353.346341 185.700831,271.605978 189.384935,248.076684 C193.069039,224.54739 150.528109,230.265298 61.7621441,265.230407 C240.79316,101.743469 330.308668,20 330.308668,20 Z" id="Path" fill="#4FB54C"></path>
+    <title>logo</title>
+    <defs>
+        <radialGradient cx="50.6269758%" cy="50%" fx="50.6269758%" fy="50%" r="47.1577251%" id="radialGradient-1">
+            <stop stop-color="#6AACE9" offset="0%"></stop>
+            <stop stop-color="#2C5282" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#BEE3F8" stroke-width="34" fill="#F7FAFC" cx="512" cy="512" r="457"></circle>
+        <circle id="Oval-Copy" stroke="#3182CE" stroke-width="34" fill="url(#radialGradient-1)" cx="512" cy="512" r="457"></circle>
+        <g id="Group" transform="translate(190.500000, 131.000000)" fill="#FFFFFF" font-family="CourierStd, Courier Std" font-size="1097" font-weight="400">
+            <text id="S">
+                <tspan x="0.4" y="688">S</tspan>
+            </text>
+        </g>
     </g>
 </svg>
