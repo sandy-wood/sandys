@@ -10,27 +10,16 @@ extends: _layouts.post
 section: content
 ---
 Blog gone dead dog?
+Copy a little bit sloppy?   
+Guide on the slide?  
+Pitch looking very black?  
+SEO gone AWOL?  
+Inept at step-by-step?  
+Story without glory?  
+Diagram not to plan?  
+Animation causing consternation?  
 
-Copy a little bit sloppy? 
-
-Guide on the slide?
-
-Pitch looking very black?
-
-SEO gone AWOL?
-
-Inept at step-by-step?
-
-Story without glory?
-
-Diagram not to plan?
-
-Animation causing consternation?
-
-
-
-You just found a freelance communicator. 
-
-Send an email. 
-
+You just found a freelance communicator.   
+Send an email.   
 Don't fail.
+
