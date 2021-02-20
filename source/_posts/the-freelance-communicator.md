@@ -9,7 +9,7 @@ featured: true
 extends: _layouts.post
 section: content
 ---
-Blog gone dead dog?
+Blog gone dead dog? </br> 
 Copy a little bit sloppy?   
 Guide on the slide?  
 Pitch looking very black?  
