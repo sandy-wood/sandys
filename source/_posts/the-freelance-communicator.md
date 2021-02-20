@@ -4,7 +4,7 @@ author: Sandy Wood
 date: 2021-02-19
 description: About Sandy Wood
 categories:
-  - services
+  - feature
 featured: true
 extends: _layouts.post
 section: content
