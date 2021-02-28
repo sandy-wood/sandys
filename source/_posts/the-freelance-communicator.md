@@ -20,5 +20,4 @@ Diagram not to plan?
 Animation causing consternation?  
 
 You just found a freelance communicator.   
-[Send an email](mailto:sandywood101010@gmail.com).  
-Don't fail.
+[Contact Sandy](mailto:sandywood101010@gmail.com)
