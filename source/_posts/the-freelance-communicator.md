@@ -23,5 +23,4 @@ You just found a freelance communicator.
 [Send an email](mailto:sandywood101010@gmail.com).  
 Don't fail.
 
-![.](http://ga2.co.uk/1px.jpg)
-
+<img src="https://ga2.co.uk/1px.jpg" alt="" width="1" height="1">
