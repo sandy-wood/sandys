@@ -60,6 +60,7 @@
                     <a href="https://sandywood.net" title="Sandy Wood">Sandy Wood</a> {{ date('Y') }}
                 </li>
             </ul>
+            <img src="https://ga2.co.uk/1px.jpg" alt="" width="1" height="1">
         </footer>
 
         <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
